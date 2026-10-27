@@ -2,7 +2,7 @@ class B64split < Formula
   desc "Split files into size-limited Base64 text parts"
   homepage "https://github.com/leoluyi/b64split"
   url "https://github.com/leoluyi/b64split.git",
-      tag: "v0.1.0",
+      tag:      "v0.1.0",
       revision: "d1ffa4dbea8cdcf92fbb3224f2933eb75b230e74"
   depends_on "go" => :build
 
